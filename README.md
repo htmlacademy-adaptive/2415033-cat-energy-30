@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
 * Студент: [Сергей Орлов](https://up.htmlacademy.ru/adaptive/30/user/2415033).
-* Наставник: `Неизвестно`.
+* Наставник: [Виталий Драгулин](https://htmlacademy.ru/profile/id1008501). 
 
 ---
 
@@ -16,7 +16,7 @@ _`.github`, `.editorconfig`, `.gitattributes`, `.gitignore`, `.stylelintrc`, `pa
 
 ---
 
-### Памятка
+#### Памятка
 
 #### 1. Зарегистрируйтесь на Гитхабе
 
